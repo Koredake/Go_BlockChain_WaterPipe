@@ -1,0 +1,12 @@
+{
+    "host": "127.0.0.1",
+    "port": "12345",
+    "web": "static",
+    "gethPort": "http://localhost:7545",
+    "privateKey" : "34880979e84a928e04a031a3d1eb590cbde20bba83913d64cfd508ba598b87fd",
+    "dbUserName": "root",
+    "dbPassword": "12345678",
+    "DbIp": "127.0.0.1",
+    "DbPort": "3306",
+    "dbName": "chaozhichang"
+}
